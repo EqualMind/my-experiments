@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLaboratory.ConsoleApp", "SharpLaboratory.ConsoleApp\SharpLaboratory.ConsoleApp.csproj", "{11450679-DCF7-42E6-AE70-2D4153236771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLaboratory.ConsoleApp.Tests", "SharpLaboratory.ConsoleApp.Tests\SharpLaboratory.ConsoleApp.Tests.csproj", "{BB56D112-4564-44AB-A6B0-5C1071DB9839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLaboratory.DataManagement", "SharpLaboratory.DataManagement\SharpLaboratory.DataManagement.csproj", "{53ED8EF2-AF77-47CA-8D33-9448A381609E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11450679-DCF7-42E6-AE70-2D4153236771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11450679-DCF7-42E6-AE70-2D4153236771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11450679-DCF7-42E6-AE70-2D4153236771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11450679-DCF7-42E6-AE70-2D4153236771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB56D112-4564-44AB-A6B0-5C1071DB9839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB56D112-4564-44AB-A6B0-5C1071DB9839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB56D112-4564-44AB-A6B0-5C1071DB9839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB56D112-4564-44AB-A6B0-5C1071DB9839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ED8EF2-AF77-47CA-8D33-9448A381609E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ED8EF2-AF77-47CA-8D33-9448A381609E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ED8EF2-AF77-47CA-8D33-9448A381609E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ED8EF2-AF77-47CA-8D33-9448A381609E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
